@@ -1,0 +1,9 @@
+{
+  "name": "youtube-feed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
